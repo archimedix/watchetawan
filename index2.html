@@ -28,8 +28,8 @@
      class="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-full object-cover z-0" />
 
 <video id="bg" preload="auto" muted playsinline>
-  <source src="output.webm" type="video/webm">
   <source src="output.mp4"  type="video/mp4">
+  <source src="output.webm" type="video/webm">
 </video>
 
 <img src="banner_tr.png" alt="Wat Tham Chetawan Banner"
@@ -70,25 +70,44 @@
     }
   };
 
+  // Debug: log del formato video caricato
+  video.addEventListener('loadstart', () => {
+    console.log('Video loading started');
+  });
+  
   video.addEventListener('loadedmetadata', () => {
     duration = video.duration || 0;
     video.pause();
-    video.classList.add('loaded'); // Mostra il video
-    document.getElementById('placeholder').style.opacity = '0'; // Nascondi placeholder
+    console.log('Video loaded:', video.currentSrc, 'Duration:', duration);
+    
+    // Controlla se il video ha effettivamente contenuto
+    if (duration > 0 && video.videoWidth > 0 && video.videoHeight > 0) {
+      video.classList.add('loaded');
+      document.getElementById('placeholder').style.opacity = '0';
+      console.log('Video dimensions:', video.videoWidth, 'x', video.videoHeight);
+    } else {
+      console.log('Video loaded but invalid dimensions or duration');
+    }
+    
     updateDocH();
     onScroll(); // inizializza posizione
   });
 
-  // Fallback per iOS - mostra il video dopo 2 secondi anche senza loadedmetadata
+  video.addEventListener('error', (e) => {
+    console.log('Video error:', e);
+  });
+
+  // Fallback per iOS - mostra il video dopo 3 secondi
   setTimeout(() => {
     if (!video.classList.contains('loaded')) {
+      console.log('Fallback triggered - forcing video display');
       video.classList.add('loaded');
-      document.getElementById('placeholder').style.opacity = '0'; // Nascondi placeholder
-      duration = video.duration || 10; // fallback duration
+      document.getElementById('placeholder').style.opacity = '0';
+      duration = video.duration || 10;
       updateDocH();
       onScroll();
     }
-  }, 2000);
+  }, 3000);
 
   // Fix per iOS: forza il video a rimanere in pausa
   video.addEventListener('play', () => {

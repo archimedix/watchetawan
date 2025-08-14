@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8" />
+<title>Wat Tham Chetawan - Kruba Noi Yanwichai</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  html, body { margin:0; padding:0; height:500vh; overflow-x:hidden; }
+  video {
+    position:fixed; 
+    top:50%; left:50%;
+    width:100vw; height:100vh;
+    min-width:100vw; min-height:100vh;
+    object-fit:cover; 
+    transform: translate(-50%, -50%);
+    z-index:-1; pointer-events:none;
+  }
+</style>
+</head>
+<body>
+
+<video id="bg" preload="auto" muted playsinline>
+  <source src="output.webm" type="video/webm">
+  <source src="output.mp4"  type="video/mp4">
+</video>
+
+<img src="banner_tr.png" alt="Wat Tham Chetawan Banner" 
+     class="fixed top-5 left-1/2 transform -translate-x-1/2 w-full max-w-md px-4 z-10 opacity-90" />
+
+<img src="kubanoi_tr.png" alt="Kruba Noi" 
+     class="fixed bottom-0 left-1/2 transform max-w-md -translate-x-1/2 z-10" />
+
+<script>
+  const video = document.getElementById('bg');
+  let target = 0, duration = 0, docH = 0, ticking = false;
+
+  const updateDocH = () => {
+    docH = document.documentElement.scrollHeight - window.innerHeight;
+  };
+
+  const onScroll = () => {
+    const frac = docH > 0 ? window.scrollY / docH : 0;
+    target = duration * Math.min(Math.max(frac, 0), 1);
+    if (!ticking) {
+      ticking = true;
+      requestAnimationFrame(applyTime);
+    }
+  };
+
+  const applyTime = () => {
+    ticking = false;
+    // Applica solo se differenza > 1 frame (~0.04s a 24fps)
+    if (Math.abs(video.currentTime - target) > 0.04) {
+      video.currentTime = target;
+    }
+  };
+
+  video.addEventListener('loadedmetadata', () => {
+    duration = video.duration || 0;
+    video.pause();
+    updateDocH();
+    onScroll(); // inizializza posizione
+  });
+
+  // Listener "passive" e ricalcolo su resize
+  window.addEventListener('scroll', onScroll, { passive: true });
+  window.addEventListener('resize', () => {
+    updateDocH();
+    onScroll();
+  }, { passive: true });
+</script>
+
+</body>
+</html>

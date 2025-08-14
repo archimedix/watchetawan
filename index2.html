@@ -69,44 +69,39 @@
     }
   };
 
-  // Debug: log del formato video caricato
-  video.addEventListener('loadstart', () => {
-    console.log('Video loading started');
-  });
+  // Debug: forza la visualizzazione del video
+  const forceVideoDisplay = () => {
+    console.log('Forcing video display');
+    video.style.opacity = '1';
+    video.style.zIndex = '10';
+    document.getElementById('placeholder').style.display = 'none';
+  };
   
   video.addEventListener('loadedmetadata', () => {
     duration = video.duration || 0;
     video.pause();
     console.log('Video loaded:', video.currentSrc, 'Duration:', duration);
-    
-    // Controlla se il video ha effettivamente contenuto
-    if (duration > 0 && video.videoWidth > 0 && video.videoHeight > 0) {
-      video.classList.add('loaded');
-      document.getElementById('placeholder').style.opacity = '0';
-      console.log('Video dimensions:', video.videoWidth, 'x', video.videoHeight);
-    } else {
-      console.log('Video loaded but invalid dimensions or duration');
-    }
+    console.log('Video dimensions:', video.videoWidth, 'x', video.videoHeight);
     
     updateDocH();
-    onScroll(); // inizializza posizione
+    onScroll();
+    
+    // Forza la visualizzazione dopo un piccolo delay
+    setTimeout(forceVideoDisplay, 100);
   });
 
   video.addEventListener('error', (e) => {
     console.log('Video error:', e);
   });
 
-  // Fallback per iOS - mostra il video dopo 3 secondi
+  // Fallback - forza visualizzazione dopo 2 secondi
   setTimeout(() => {
-    if (!video.classList.contains('loaded')) {
-      console.log('Fallback triggered - forcing video display');
-      video.classList.add('loaded');
-      document.getElementById('placeholder').style.opacity = '0';
-      duration = video.duration || 10;
-      updateDocH();
-      onScroll();
-    }
-  }, 3000);
+    console.log('Fallback triggered');
+    duration = video.duration || 10;
+    updateDocH();
+    onScroll();
+    forceVideoDisplay();
+  }, 2000);
 
   // Fix per iOS: forza il video a rimanere in pausa
   video.addEventListener('play', () => {

@@ -24,6 +24,9 @@
 </head>
 <body>
 
+<img id="placeholder" src="front.jpeg" alt="Loading" 
+     class="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full h-full object-cover z-0" />
+
 <video id="bg" preload="auto" muted playsinline>
   <source src="output.webm" type="video/webm">
   <source src="output.mp4"  type="video/mp4">
@@ -71,9 +74,21 @@
     duration = video.duration || 0;
     video.pause();
     video.classList.add('loaded'); // Mostra il video
+    document.getElementById('placeholder').style.opacity = '0'; // Nascondi placeholder
     updateDocH();
     onScroll(); // inizializza posizione
   });
+
+  // Fallback per iOS - mostra il video dopo 2 secondi anche senza loadedmetadata
+  setTimeout(() => {
+    if (!video.classList.contains('loaded')) {
+      video.classList.add('loaded');
+      document.getElementById('placeholder').style.opacity = '0'; // Nascondi placeholder
+      duration = video.duration || 10; // fallback duration
+      updateDocH();
+      onScroll();
+    }
+  }, 2000);
 
   // Fix per iOS: forza il video a rimanere in pausa
   video.addEventListener('play', () => {

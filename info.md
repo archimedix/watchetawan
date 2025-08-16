@@ -8,7 +8,7 @@ Il Buddismo Theravada, prevalente in Thailandia, attribuisce grande valore alla 
 
 Per garantire la massima chiarezza e accuratezza, è fondamentale distinguere Kruba Noi Yanwichai da altri monaci di spicco che potrebbero avere nomi simili o essere menzionati in contesti correlati. Questo rapporto si concentra esclusivamente su Kruba Noi Yanwichai (ครูบาน้อย ญาณวิไชย), nato come Phra Yanwichai Phikkhu. È importante non confonderlo con figure come Kruba Siwichai (ครูบาศรีวิชัย), un altro monaco storico e venerato del nord della Thailandia, noto come il "Santo Patrono di Lanna". La distinzione è cruciale per attribuire correttamente gli eventi biografici e le opere.
 
-Analogamente, è essenziale specificare che il santuario oggetto di questa ricerca è il Wat Tham Chetawan (วัดถ้ำเชตวัน), situato nel distretto di Na Noi, provincia di Nan, Thailandia. Le fonti consultate rivelano l'esistenza di un altro Wat Chetawan in Malesia , un tempio thailandese a Petaling Jaya, Selangor, che non ha alcuna relazione con la vita o le opere di Kruba Noi Yanwichai. La precisione geografica e contestuale è indispensabile per evitare errori fattuali e per contestualizzare correttamente la vita e le attività del monaco.
+Analogamente, è essenziale specificare che il santuario oggetto di questa ricerca è il Wat Tham Chetawan (วัดถ้ำเขตาวัน), situato nel distretto di Na Noi, provincia di Nan, Thailandia. Le fonti consultate rivelano l'esistenza di un altro Wat Chetawan in Malesia , un tempio thailandese a Petaling Jaya, Selangor, che non ha alcuna relazione con la vita o le opere di Kruba Noi Yanwichai. La precisione geografica e contestuale è indispensabile per evitare errori fattuali e per contestualizzare correttamente la vita e le attività del monaco.
 
 ## 2. Biografia e Percorso Ascetico di Kruba Noi Yanwichai
 
@@ -24,8 +24,9 @@ Fin dalla giovane età, mostrò un'inclinazione verso la vita monastica.
 
 - **Ordinazione come novizio (samanera):** 25 marzo 2002, a 12 anni, presso il Wat Na Daeng
   - *Precettore:* Phra Khru Wisut Nanthawit
-- **Ordinazione completa come monaco (bhikkhu):** 13 dicembre (a 20 anni) presso il Wat Santha
-  - *Nome monastico conferito:* "Yanwichayo Phikkhu"
+- **Ordinazione completa come monaco (bhikkhu):** 13 dicembre 2009 (a 20 anni) presso il Wat Santha
+  - *Nome monastico conferito:* "Yanwichayo Phikkhu" (ญาณวิชชโย)
+  - *Nota:* nei media spesso citato come "Yanwichai" (ญาณวิไชย)
 Un aspetto fondamentale della sua formazione spirituale fu il discepolato sotto la guida di Kruba Boonchum Yanasanwaro, un monaco estremamente rinomato nella regione di Lanna. Kruba Noi trascorse molti anni studiando e praticando il Dhamma con Kruba Boonchum presso la grotta di Tham Chiang Dao, nella provincia di Chiang Mai, emergendo come uno dei suoi discepoli più rispettati. Questa relazione con un maestro così celebre non fu un semplice dettaglio biografico, ma stabilì una chiara linea di successione spirituale. Essere discepolo di Kruba Boonchum, un monaco noto per le sue intense pratiche meditative e le sue presunte capacità profetiche , conferì a Kruba Noi una significativa legittimazione e prestigio all'interno della tradizione buddista thailandese. La sua scelta di emulare le pratiche estreme del suo maestro, come i lunghi ritiri in grotta, rafforzò ulteriormente la percezione della sua dedizione e del suo potenziale spirituale.
 ### Pratiche Ascetiche
 
@@ -43,7 +44,7 @@ Dopo anni di viaggio spirituale, tornò nella sua città natale per riprendere l
 | Ordinazione novizio | 25 marzo 2002 | 12 anni | Wat Na Daeng | Precettore: Phra Khru Wisut Nanthawit |
 | Ordinazione monaco | 13 dicembre | 20 anni | Wat Santha | Nome: "Yanwichayo Phikkhu" |
 | Inizio ritiro | 12 luglio 2014 | 25 anni | Tham Chetawan | Ritiro triennale |
-| Fine ritiro | 15 ottobre 2017 | 28 anni | Tham Chetawan | Completamento del ritiro |
+| Fine ritiro | 15 ottobre 2017 | 28 anni | Tham Chetawan | Durata: 3 anni, 3 mesi, 3 giorni |
 | Morte | 31 agosto 2023 | 34 anni | - | Insufficienza cardiaca |
 
 La presentazione di questi eventi in formato tabellare offre una sintesi visiva immediata delle tappe fondamentali della vita di Kruba Noi, consentendo una rapida comprensione della sua progressione spirituale e dei momenti salienti del suo percorso.
@@ -55,8 +56,9 @@ La reclusione di Kruba Noi Yanwichai nella grotta di Tham Chetawan rappresenta *
 
 - **Inizio:** 12 luglio 2014 (anno buddista 2557)
 - **Fine:** 15 ottobre 2017 (anno buddista 2560)
-- **Durata:** 3 anni
+- **Durata:** 3 anni, 3 mesi, 3 giorni
 - **Luogo:** Grotta di Tham Chetawan, sottodistretto di Santha
+- **Plus Code:** 7HFH+476
 - **Obiettivo:** Raggiungere un'illuminazione superiore attraverso la pratica intensiva del Dhamma
 
 **Caratteristiche del ritiro:**
@@ -68,7 +70,7 @@ La reclusione di Kruba Noi Yanwichai nella grotta di Tham Chetawan rappresenta *
 La reclusione in grotta, specialmente per un periodo così esteso e con restrizioni estreme come l'astinenza da cibo e acqua (sebbene l'astinenza totale da acqua per tre anni sia biologicamente insostenibile e vada interpretata come una metafora dell'estrema austerità o un'iperbole per la minima assunzione di sostentamento), è una pratica altamente simbolica e rara nel Buddismo Theravada. Non è semplicemente un fatto biografico, ma un elemento centrale che definisce la figura ascetica di Kruba Noi e contribuisce in modo significativo alla sua fama di "piccolo santo". La grotta, in questo contesto, si trasforma da mero luogo fisico a catalizzatore e simbolo di profonda trasformazione spirituale, elevando il monaco al di sopra della norma. Tali ritiri estremi sono visti come un percorso per coltivare virtù fondamentali come l'empatia, la pazienza e la riduzione delle aspettative mondane. Le pratiche fisicamente impegnative, come il consumo di un solo pasto vegetariano al giorno mantenuto anche durante il ritiro , sono culturalmente percepite come segni di straordinaria forza spirituale e determinazione, alimentando la venerazione popolare e la credenza nelle sue capacità spirituali avanzate.
 
 ## 4. Wat Tham Chetawan: Il Santuario e il Suo Legame con Kruba Noi
-Il **Wat Tham Chetawan** è un santuario buddista situato nel distretto di Na Noi, provincia di Nan, Thailandia, profondamente legato alla figura di Kruba Noi Yanwichai.
+Il **Wat Tham Chetawan** (วัดถ้ำเขตาวัน) è un santuario buddista situato nel distretto di Na Noi, provincia di Nan, Thailandia, profondamente legato alla figura di Kruba Noi Yanwichai.
 
 ### Storia e Trasformazione
 
@@ -109,6 +111,7 @@ L'architettura del Wat Tham Chetawan è particolarmente notevole per la sua fusi
 
 **Opere Monumentali:**
 - Grande Buddha reclinato bianco (15 metri) con veste gialla
+- Scalinata Naga
 - Museo con collezioni di:
   - Argenteria antica
   - Banconote storiche
@@ -124,6 +127,9 @@ L'architettura del Wat Tham Chetawan è particolarmente notevole per la sua fusi
 | **Ruolo di Kruba Noi** | Ripulitura e sviluppo dell'area |
 | **Stili Architettonici** | Fusione Lanna-Birmana |
 | **Status Attuale** | Importante sito buddista della provincia |
+| **Riconoscimento Turistico** | Incluso nelle mete "Unseen New Chapters" (2023) |
+| **Google map** | https://www.google.com/maps/place/Wat+Tham+Chetawan/@18.2714436,100.5794202,882m/data=!3m1!1e3!4m6!3m5!1s0x30d89daa362350df:0xb6be6837c3db16aa!8m2!3d18.2727996!4d100.5781288!16s%2Fg%2F11hb6tf93d?entry=ttu&g_ep=EgoyMDI1MDgxMy4wIKXMDSoASAFQAw%3D%3D |
+
 Questa tabella riassume in modo conciso le caratteristiche uniche del Wat Tham Chetawan di Nan, mettendo in evidenza le influenze birmane e il ruolo trasformativo di Kruba Noi, che sono elementi essenziali per comprendere il significato del tempio.
 
 ## 5. Insegnamenti e Filosofia di Kruba Noi Yanwichai
@@ -286,7 +292,56 @@ Le immagini giocano un ruolo cruciale nel documentare e visualizzare la vita di 
 - Immagini del monaco: limitata disponibilità verificata
 - Arricchimento visivo significativo per la documentazione
 
-## 9. Conclusione
+### Informazioni Pratiche per Visitatori
+
+**Localizzazione:**
+- **Indirizzo:** Tambon San Tha, Amphoe Na Noi, Nan
+- **Plus Code:** 7HFH+476
+
+**Cosa Vedere:**
+- Grotte della reclusione
+- Grande viharn in stile Lanna
+- Buddha disteso (15 metri)
+- Percorso e scalinata Naga
+- Museo con collezioni storiche
+- Stupa "Golden Rock" in stile Myanmar
+
+**Raccomandazioni:**
+- **Abbigliamento:** Sobrio e rispettoso
+- **Comportamento:** Mantenere il silenzio
+- **Orari:** Arrivare presto nei weekend per l'afflusso crescente
+- **Natura:** Luogo sacro, comportamento appropriato richiesto
+
+## 9. Note e Discrepanze Documentali
+
+### Variazioni nella Documentazione
+
+**Nome Monastico:**
+- **Registri ufficiali:** "Yanwichayo" (ญาณวิชชโย)
+- **Uso mediatico:** "Yanwichai" (ญาณวิไชย)
+
+**Orario del Decesso:**
+- **Thai Post/Matichon:** 00:48-00:49
+- **PPTV:** 04:00
+
+**Grafia del Sito:**
+- **Thailandese (dal banner ufficiale):** "เขตาวัน"
+- **Denominazione internazionale (Google Maps):** "Chetawan"
+- **Nota:** La traslitterazione ufficiale in caratteri latini è "Chetawan"
+
+### Fonti Principali
+
+**Testate Giornalistiche:**
+- Matichon, ThaiPost, DailyNews
+- PPTV, JS100
+- MgrOnline, Sanook
+
+**Informazioni Turistiche:**
+- Thailand Tourism Directory
+- TAT Nan, Trip.com
+- Voci enciclopediche (thailandese)
+
+## 10. Conclusione
 La vita di Kruba Noi Yanwichai, il "piccolo santo" della provincia di Nan, è un potente esempio di dedizione ascetica e di profonda pratica del Dhamma nel Buddismo Theravada thailandese. Dalla sua precoce ordinazione all'età di 12 anni fino alla sua morte a 34 anni, il suo percorso è stato segnato da una ricerca incessante della verità spirituale e da un impegno rigoroso verso i principi buddisti.
 Il suo ruolo nella trasformazione del Wat Tham Chetawan da un sito trascurato a un importante centro spirituale nella provincia di Nan è una testimonianza tangibile del suo impatto. La fusione di stili architettonici Lanna e birmani all'interno del tempio non solo riflette la ricchezza culturale della regione, ma simboleggia anche le profonde connessioni spirituali che Kruba Noi ha coltivato, in particolare attraverso il suo discepolato sotto Kruba Boonchum Yanasanwaro.
 La sua reclusione triennale nella grotta di Tham Chetawan, un atto di ascetismo estremo, ha cementato la sua reputazione di monaco altamente realizzato. Questa pratica, sebbene fisicamente impegnativa, è stata percepita come un segno di straordinaria forza spirituale e determinazione, alimentando la venerazione popolare e contribuendo al suo status di "santo". La sua morte, avvenuta in modo sereno e con istruzioni precise per la cremazione immediata, è stata interpretata dai suoi seguaci come un atto finale di distacco e consapevolezza, rafforzando ulteriormente la sua immagine di figura illuminata.

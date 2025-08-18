@@ -16,6 +16,66 @@
             }
         }
     </script>
+    <style>
+        /* Mobile-optimized parallax sections */
+        .parallax-section {
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        
+        /* Disable parallax on mobile devices */
+        @media (max-width: 768px) {
+            .parallax-section {
+                background-attachment: scroll;
+                background-size: cover;
+                background-position: center top;
+            }
+        }
+        
+        /* iOS Safari specific fix */
+        @supports (-webkit-touch-callout: none) {
+            .parallax-section {
+                background-attachment: scroll;
+            }
+        }
+        
+        /* Responsive images */
+        .responsive-bg {
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        
+        @media (max-width: 640px) {
+            .responsive-bg {
+                background-size: cover;
+                background-position: center top;
+            }
+        }
+        
+        /* Timeline responsive fix */
+        @media (max-width: 768px) {
+            .timeline-container {
+                padding-left: 1rem;
+                padding-right: 1rem;
+            }
+            
+            .timeline-line {
+                left: 2rem;
+            }
+            
+            .timeline-item {
+                margin-left: 3rem;
+                width: calc(100% - 3rem);
+            }
+            
+            .timeline-dot {
+                left: 1.5rem;
+            }
+        }
+    </style>
 </head>
 <body class="bg-white">
     <!-- Navigation -->
@@ -26,13 +86,13 @@
                 <a href="wat.html" class="text-2xl font-bold hover:text-gray-300 transition-colors">Wat Chetawan</a>
             </div>
             <div class="space-x-8">
-                <a href="krubanoi.html" class="hover:text-gray-300 transition-colors font-semibold px-3 py-2 rounded-lg hover:bg-white/10">Kruba Noi</a>
+                <a href="krubanoi.html" class="hover:text-gray-300 transition-colors font-semibold px-3 py-2 rounded-lg hover:bg-white/10">KrubaNoi</a>
             </div>
         </div>
     </nav>
 
     <!-- Hero Section -->
-    <section class="relative h-screen bg-cover bg-center bg-fixed" style="background-image: url('kubanoi_xl.jpg');">
+    <section class="relative h-screen parallax-section responsive-bg" style="background-image: url('kubanoi_xl.jpg');">
         <div class="absolute inset-0 bg-black bg-opacity-50"></div>
         <div class="relative h-full flex items-center justify-center pt-20">
             <div class="text-white text-center px-4">
@@ -46,7 +106,7 @@
     <!-- Main Content -->
     <main class="bg-white relative z-10">
         <!-- Biography Overview -->
-        <section class="relative bg-cover bg-center bg-fixed" style="background-image: url('pictures/view.jpeg');">
+        <section class="relative parallax-section responsive-bg" style="background-image: url('pictures/view.jpeg');">
             <div class="absolute inset-0 bg-black bg-opacity-40"></div>
             <div class="relative">
                 <!-- Section Title Banner -->
@@ -72,7 +132,7 @@
         </section>
 
         <!-- Life Timeline -->
-        <section class="relative bg-cover bg-center bg-fixed" style="background-image: url('pictures/cave_inside.jpeg');">
+        <section class="relative parallax-section responsive-bg" style="background-image: url('pictures/cave_inside.jpeg');">
             <div class="absolute inset-0 bg-black bg-opacity-40"></div>
             <div class="relative">
                 <!-- Section Title Banner -->
@@ -81,23 +141,23 @@
                         <h2 class="text-3xl font-bold text-white text-center">Spiritual Journey</h2>
                     </div>
                 </div>
-                <div class="max-w-6xl mx-auto px-4 py-16">
+                <div class="max-w-6xl mx-auto px-4 py-16 timeline-container">
             <div class="relative">
-                <div class="absolute left-1/2 transform -translate-x-1/2 h-full w-1 bg-monk-red"></div>
+                <div class="absolute left-1/2 transform -translate-x-1/2 h-full w-1 bg-monk-red timeline-line md:left-1/2"></div>
                 
                 <!-- Timeline items -->
                 <div class="space-y-12">
                     <!-- Birth -->
-                    <div class="flex items-center">
-                        <div class="w-1/2 pr-8 text-right">
+                    <div class="flex items-center md:block">
+                        <div class="w-full md:w-1/2 md:pr-8 md:text-right timeline-item">
                             <div class="bg-black/30 backdrop-blur-md p-4 rounded-lg border border-white/20">
                                 <h3 class="font-bold text-white">Birth</h3>
                                 <p class="text-sm text-gray-300">March 25, 1989</p>
                                 <p class="text-sm text-white">Born as the fourth of five children to Mr. Chai and Mrs. Somjit Namwong in Na Daeng village.</p>
                             </div>
                         </div>
-                        <div class="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 bg-monk-red rounded-full"></div>
-                        <div class="w-1/2 pl-8"></div>
+                        <div class="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 bg-monk-red rounded-full timeline-dot md:left-1/2"></div>
+                        <div class="hidden md:block w-1/2 pl-8"></div>
                     </div>
 
                     <!-- Novice Ordination -->
@@ -157,7 +217,7 @@
         </section>
 
         <!-- The Great Retreat -->
-        <section class="relative bg-cover bg-center bg-fixed" style="background-image: url('pictures/cave2.jpeg');">
+        <section class="relative parallax-section responsive-bg" style="background-image: url('pictures/cave2.jpeg');">
             <div class="absolute inset-0 bg-black bg-opacity-40"></div>
             <div class="relative">
                 <!-- Section Title Banner -->
@@ -192,7 +252,7 @@
         </section>
 
         <!-- Spiritual Teachings -->
-        <section class="relative bg-cover bg-center bg-fixed" style="background-image: url('pictures/kubanoi_cave.jpeg');">
+        <section class="relative parallax-section responsive-bg" style="background-image: url('pictures/kubanoi_cave.jpeg');">
             <div class="absolute inset-0 bg-black bg-opacity-40"></div>
             <div class="relative">
                 <!-- Section Title Banner -->
@@ -237,7 +297,7 @@
         </section>
 
         <!-- Final Days -->
-        <section class="relative bg-cover bg-center bg-fixed" style="background-image: url('pictures/burning.jpeg');">
+        <section class="relative parallax-section responsive-bg" style="background-image: url('pictures/burning.jpeg');">
             <div class="absolute inset-0 bg-black bg-opacity-40"></div>
             <div class="relative">
                 <!-- Section Title Banner -->

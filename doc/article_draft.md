@@ -48,7 +48,20 @@ https://watchetawan.org/
 Ho scritto un articolo per un blog, vorrei che mi facessi da copy-writer e fact-checking e mi fornissi un testo che sia avvincente, ben scritto, SEO friendly, e che contiene un messaggio finale per l'utente
 
 
+info author:
 
+A 14 anni ho frequentato la scuola professionale Salesiana, da quando ne avevo 21 ho iniziato ad insegnare in quella stessa scuola, sempre a contatto con Saleisani.
+A 35 anni (nel 2010-2011) ho Fatto un anno sabbatico (india Nepal thailandia), In India  ho frequestato un Ashram e conosciuto il guru Umesh, in thailandia ho conosiuto quella che ora è mia moglie.
+Per tre mesi sono stato ospitato presso l'Unversità Pontificia Salesiana a Roma, dove ho vissuto con la comunità salesiana.
+Di quell'anno sabbatico ho tenuto un blog: https://nelmezzodellamiavita.wordpress.com/
 
+Finito l'anno sabbatico mi sono licenziato ed ora lavoro come freelance sia per i salesiani che per altri.
+Nel 2012 mi sono spostato e nel 2013 è nata mia figlia Elisa in Thailandia.
+Dal 2012 sono tornato più volte in India e ho anche ospiteto il guru indiano (Umesh) a casa mia in Italia, ho creato e gestisco il sito dell'asharam: https://varanasicosmicenergy.org.
+
+Nel 2018 Ho fatto un periodo di 10 giorni con i monaci del Wat Pah Korkang, a Nan, dove ho regalato loro il sito: https://watpahkorwang.org/
+
+Negli ultimi 10 anni, io , mia moglie e miea figlia, che normalmente viviamo in Italia, passiamo le vacanze estive (da Giugno e Settembre) in Thailandia.
+Nel 2023, il 30 Agosto visitavo il Wat Chetawan il giorno stesso che Kruba Noi è morto. il 2 Settembre dello stesso anno registravo il dominio https://watpahkorwang.org/.
 
 

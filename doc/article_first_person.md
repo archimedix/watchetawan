@@ -1,4 +1,7 @@
 # La Santità nell'Era Moderna: Il Mio Incontro con Kruba Noi e la Ricerca Spirituale del XXI Secolo
+19-08-2025
+![reclined](assets/reclined.jpeg)
+
 
 ## Da Don Bosco al Buddha: Il Mio Viaggio tra Due Mondi
 
@@ -6,7 +9,7 @@
 
 Poi, a 35 anni, qualcosa dentro di me ha chiesto di più. **Nel 2010 ho preso un anno sabbatico** - una decisione che avrebbe cambiato per sempre la mia vita. India, Nepal, Thailandia: tre paesi, tre tradizioni spirituali, infinite domande sulla natura della santità e del cammino spirituale.
 
-In un ashram indiano ho incontrato il guru Umesh, che anni dopo avrei ospitato nella mia casa italiana. In Thailandia ho conosciuto la donna che sarebbe diventata mia moglie. E soprattutto, ho scoperto che **la santità non ha confini geografici né dogmatici**.
+In un ashram indiano ho incontrato il maestro Umesh, che anni dopo avrei ospitato nella mia casa italiana. In Thailandia ho conosciuto la donna che sarebbe diventata mia moglie. E soprattutto, ho scoperto che **la santità non ha confini geografici né dogmatici**.
 
 ## La Domanda che Mi Porto Dentro
 
@@ -16,13 +19,16 @@ Non parlo della santità delle aureole e dei miracoli certificati dal Vaticano. 
 
 ## 30 Agosto 2023: Il Giorno che Non Dimenticherò Mai
 
-Ogni estate, da oltre dieci anni, io, mia moglie thailandese e nostra figlia Elisa torniamo in Thailandia per tre mesi. È il nostro modo di mantenere vive le radici, di far crescere Elisa tra due culture.
+Ogni estate, da oltre dieci anni, io, mia moglie e nostra figlia Elisa torniamo in Thailandia per tre mesi. È il nostro modo di mantenere vive le radici, di far crescere Elisa tra due culture.
 
-Quel 30 agosto 2023 ero a NaNoi, nella provincia di Nan - non lontano da dove anni prima avevo vissuto con i monaci del Wat Pah Korwang. **Decisi di portare Elisa, che aveva 10 anni, a visitare il Wat Chetawan**, un monastero di cui avevo sentito parlare ma che non avevo mai visitato.
+Quel 30 agosto 2023 ero a casa nostra, a NaNoi, nella provincia di Nan - non lontano da dove anni prima avevo vissuto con i monaci del Wat Pah Korwang. **Decisi di portare Elisa, che aveva 10 anni, a visitare il Wat Chetawan**, un monastero di cui avevo sentito parlare ma che non avevo mai visitato.
 
 In moto attraversammo paesaggi che conosco bene: colline verdi, villaggi microscopici dove il tempo sembra essersi fermato, risaie allagate dalla stagione delle piogge. Dopo l'ultima curva, il monastero apparve maestoso, completamente immerso nel verde.
 
+![jungle](assets/jungle.jpeg)
+
 **C'era qualcosa di speciale nell'aria quel giorno**, una pace profonda che chi ha praticato meditazione riconosce immediatamente. Un anziano monaco mi diede la benedizione, legandomi al polso un braccialetto sacro come si usa da queste parti. Parlai brevemente con alcuni giovani monaci. Tutto sembrava normale, eppure...
+![turist](assets/turist.jpeg)
 
 Il giorno dopo mia moglie mi svegliò con una notizia che mi gelò: **"Kruba Noi è morto!"**
 
@@ -30,15 +36,19 @@ Il giorno dopo mia moglie mi svegliò con una notizia che mi gelò: **"Kruba Noi
 
 Non avevo mai incontrato personalmente Kruba Noi Yanwichai, ma la sua storia risuonava profondamente con il mio percorso. Nato nel 1989 nel villaggio di NaNoi - lo stesso dove mi trovavo - era entrato in monastero da bambino, proprio come i ragazzi che avevo conosciuto durante i miei soggiorni monastici.
 
-**La sua ricerca spirituale mi ricordava la mia.** Come me, aveva cercato maestri autentici. Aveva trovato Kruba Boonchum Yanasanwaro, il "monaco delle tre nazioni", un maestro della Thai Forest Tradition che avevo sentito nominare spesso durante il mio ritiro al Wat Pah Korwang.
+**La sua ricerca spirituale mi ricordava la mia.** Come me, aveva cercato maestri autentici. Aveva trovato Kruba Boonchum Yanasanwaro, il "monaco delle tre nazioni", un maestro della Thai Forest Tradition che avevo sentito nominare spesso durante il mio ritiro di qualche anno prima al Wat Pah Korwang.
 
 ### Il Ritiro che Cambiò Tutto
 
 A 25 anni, Kruba Noi aveva fatto qualcosa che anche nel mondo monastico buddhista è considerato estremo: **si era fatto sigillare in una grotta per 3 anni, 3 mesi e 3 giorni**. 
+![cave2](assets/cave2.jpeg)
+
 
 Ho vissuto dieci giorni di ritiro monastico e so quanto possano essere intensi. Ho praticato meditazione vipassana in India e conosco la forza del silenzio prolungato. Ma tre anni in una grotta... questo va oltre qualsiasi esperienza che io abbia mai fatto o visto fare.
 
 Quando emerse da quel ritiro, pallido e emaciato ma radiante, la sua fama si diffuse in tutta la Thailandia. Il piccolo Wat Chetawan divenne meta di pellegrinaggi. E io, senza saperlo, ero arrivato lì proprio nel suo ultimo giorno di vita.
+![kubanoi](assets/kubanoi_l.jpg)
+
 
 ## Una Morte Annunciata: Quando il Sacro Irrompe nel Quotidiano
 
@@ -46,7 +56,9 @@ I dettagli della sua morte, che ho raccolto nei giorni successivi dai monaci e d
 
 La mattina dopo, io e Elisa tornammo al monastero. L'atmosfera era completamente cambiata. Avevano già preparato la pira funeraria al centro del cortile, con semplici tronchi d'albero secondo le sue disposizioni. **Centinaia di persone stavano arrivando** da tutti i villaggi vicini.
 
-Quella sera assistetti alla cremazione. I media nazionali erano presenti. Persone che non avevo mai visto prima piangevano come si piange per un padre. E io, straniero eppure non estraneo, sentivo di essere testimone di qualcosa di raro: **la morte di quello che la gente del posto considerava un santo vivente**.
+Quella stessa sera, la cremazione, come aveva chiesto lui. I media nazionali erano presenti, in mezzo ad una folla di gente e io, straniero eppure non estraneo, sentivo di essere testimone di qualcosa di raro: **la morte di quello che la gente del posto considerava un santo vivente**.
+![burning](assets/burning.jpeg)
+
 
 ## La Santità che Non Ti Aspetti
 
@@ -58,7 +70,8 @@ Eppure, vedendo la devozione della gente, ascoltando le storie di come aveva tra
 
 ## Il Monastero Oggi: Un'Eredità Vivente
 
-Il 2 settembre 2023, tre giorni dopo la morte di Kruba Noi, registrai il dominio watchetawan.org per aiutare il monastero a farsi conoscere, come avevo fatto anni prima per il Wat Pah Korwang. È il mio piccolo modo di servire questi luoghi che tanto mi hanno dato.
+Il 2 settembre 2023, tre giorni dopo la morte di Kruba Noi, registrai il dominio watchetawan.org per aiutare il monastero a farsi conoscere, come avevo fatto anni prima per il Wat Pah Korwang e ancora prima per l'Ashram Indiano. È il mio piccolo modo di servire questi luoghi che tanto mi hanno dato.
+![view](assets/view.jpeg)
 
 Oggi il Wat Chetawan è profondamente cambiato. Quello che era un eremo nascosto nella foresta è diventato un **centro spirituale internazionale** dove:
 
@@ -82,16 +95,18 @@ Se sentite dentro di voi quella stessa inquietudine che mi ha portato a lasciare
 Ho visto Kruba Noi morire a 34 anni, dopo una vita di intensa pratica spirituale. Ho visto mia figlia di 10 anni ricevere una benedizione da un monaco poche ore prima che questi lasciasse il corpo. **Ho toccato con mano il sacro nel quotidiano**.
 
 ## Un Invito Finale
+![kubanoi_cave](assets/kubanoi_cave.jpeg)
 
-Mentre scrivo queste righe, sono tornato in Italia ma una parte di me è ancora in quel monastero, in quella sera di agosto quando centinaia di persone piangevano un giovane monaco che aveva scelto la via più difficile: quella della rinuncia totale in un mondo che predica il consumo, quella del silenzio in un mondo di rumore, quella della santità in un'epoca che l'ha dimenticata.
+Mentre scrivo queste righe, sono tornato in Italia ma una parte di me è ancora in quel monastero, in quella sera di agosto quando centinaia di persone veneravano un giovane monaco che aveva scelto la via più difficile: quella della rinuncia totale in un mondo che predica il consumo, quella del silenzio in un mondo di rumore, quella della santità in un'epoca che l'ha dimenticata.
 
 **La storia di Kruba Noi ci ricorda che abbiamo una scelta.** Possiamo continuare a vivere di superficie, oppure possiamo osare la profondità. Possiamo accontentarci delle briciole spirituali che il mondo moderno ci offre, oppure possiamo cercare il banchetto completo.
 
 Non tutti sono chiamati a ritirarsi in una grotta per tre anni. Ma tutti siamo chiamati a **vivere con intenzione, con profondità, con apertura al mistero**. Questa è la lezione che porto con me da quel 30 agosto 2023, il giorno in cui, senza saperlo, ho sfiorato la santità contemporanea.
 
 ---
+[archimedix.net](https://archimedix.net/)
 
-*L'autore gestisce i siti web di diversi centri spirituali ([varanasicosmicenergy.org](https://varanasicosmicenergy.org), [watpahkorwang.org](https://watpahkorwang.org)) e continua a dividere la sua vita tra Italia e Thailandia, costruendo ponti tra Oriente e Occidente.*
+*L'autore gestisce i siti web di diversi centri spirituali e continua a dividere la sua vita tra Italia e Thailandia, costruendo ponti tra Oriente e Occidente.*
 
 **Fonti e Collegamenti:**
 - [Tradizione dei Monaci della Foresta](https://it.wikipedia.org/wiki/Monaci_della_foresta)
@@ -100,6 +115,6 @@ Non tutti sono chiamati a ritirarsi in una grotta per tre anni. Ma tutti siamo c
 - Wat Pah Korwang - [watpahkorwang.org](https://watpahkorwang.org/)
 - Libri (PDF/ePub) in Italiano dal Sito ufficiale del movimento di Ajahn Chah [Forest Sangha](https://www.forestsangha.org/)
 **Blog dell'anno sabbatico:** [nelmezzodellamiavita.wordpress.com](https://nelmezzodellamiavita.wordpress.com/)
-
+- Ashram Satyalesari - [varanasicosmicenergy.org](https://varanasicosmicenergy.org/)
 
 **Parole chiave:** santità moderna, Buddismo Theravada, Kruba Noi, spiritualità XXI secolo, Thai Forest Tradition, meditazione vipassana, ritiri spirituali, testimonianza diretta, Salesiani, ashram India, monasteri thailandesi

@@ -97,7 +97,7 @@ Ho visto Kruba Noi morire a 34 anni, dopo una vita di intensa pratica spirituale
 ## Un Invito Finale
 ![kubanoi_cave](assets/kubanoi_cave.jpeg)
 
-Mentre scrivo queste righe, sono tornato in Italia ma una parte di me è ancora in quel monastero, in quella sera di agosto quando centinaia di persone veneravano un giovane monaco che aveva scelto la via più difficile: quella della rinuncia totale in un mondo che predica il consumo, quella del silenzio in un mondo di rumore, quella della santità in un'epoca che l'ha dimenticata.
+Quando mi sento smarrito torno con la memoria in quel monastero, in quella sera di agosto quando centinaia di persone veneravano un giovane monaco che aveva scelto la via più difficile: quella della rinuncia totale in un mondo che predica il consumo, quella del silenzio in un mondo di rumore, quella della santità in un'epoca che l'ha dimenticata.
 
 **La storia di Kruba Noi ci ricorda che abbiamo una scelta.** Possiamo continuare a vivere di superficie, oppure possiamo osare la profondità. Possiamo accontentarci delle briciole spirituali che il mondo moderno ci offre, oppure possiamo cercare il banchetto completo.
 

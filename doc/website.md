@@ -148,7 +148,8 @@ Il Wat Tham Chetawan offre un'opportunità unica per **stranieri** di immergersi
 ### **Segui il Nostro Viaggio Spirituale**
 - **Website:** www.watchetawan.org
 - **Social Media:** @WatChetawan
-
+- **Trip Advisor** https://www.tripadvisor.com/Attraction_Review-g662326-d33410915-Reviews-Wat_Tham_Chetawan-Nan_Nan_Province.html
+ 
 ---
 
 ## 🙏 Un Invito alla Trasformazione
